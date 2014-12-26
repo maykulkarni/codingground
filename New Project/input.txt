@@ -1,0 +1,5 @@
+** START 2000
+** LDA FIVE
+** STA ALPHA
+** LDCH CHARZ
+** END **
